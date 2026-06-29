@@ -1,2 +1,2 @@
-## device
-### _The on-device PWA that powers alpineTiming's camera gate detection_
+## alpineGate
+### _The PWA which power's alpineTiming's advanced mobile-based gate detection_
