@@ -1,2 +1,2 @@
-# device
-The progressive web application for mobile-based timing devices
+## device
+### _The on-device PWA that powers alpineTiming's camera gate detection_
